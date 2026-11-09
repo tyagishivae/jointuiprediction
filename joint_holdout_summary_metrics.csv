@@ -1,0 +1,4 @@
+Property,N_Independent_Conditions,MSE,RMSE,MAE,R2,MAPE_Percent,R2_Caution
+Hardness_HV,2,6.242642876841654,2.4985281420951924,2.1602944673064997,-9.776367626047913,0.665571868756335,Only two held-out conditions; do not interpret as stable validation R2
+RelativeDensity_pct,2,0.07823834059637243,0.2797111735279312,0.26279206759263474,-1.8165802614694875,0.26320305123799453,Only two held-out conditions; do not interpret as stable validation R2
+UTS_MPa,2,1223.3892856576251,34.97698222628169,30.17126670760871,-3.493624557052801,3.2938877044896353,Only two held-out conditions; do not interpret as stable validation R2

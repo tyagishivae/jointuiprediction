@@ -1,0 +1,2 @@
+P_W,v_mm_per_s,h_mm,t_mm,target_UTS_MPa,predicted_UTS_MPa,UTS_signed_error_MPa,UTS_absolute_percentage_error,target_density_percent,predicted_density_percent,density_signed_error_percentage_points,density_absolute_percentage_error,objective_value,successful_trials
+150.0428262098552,1771.4612678813746,0.09165383593143926,0.04,1000.0,999.99132891614,-0.008671083860008366,0.0008671083860008367,99.0,98.0655930794399,-0.9344069205600931,0.9438453743031243,4.45422421235179e-05,1000
